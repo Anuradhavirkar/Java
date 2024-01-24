@@ -5,7 +5,7 @@ public class Job {
 	
 	void Jobs(int Task1, int Task2) {
 	
-	 System.out.println((Task1+Task2)/2);
+	 System.out.println("Job Progress="+(Task1+Task2)/2);
 	}
 public static void main(String[] args) {
 		
